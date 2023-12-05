@@ -1,0 +1,172 @@
+/* aboutinfo section  */
+
+@media screen and (max-width:600px){
+
+.container-about{
+    flex-direction: column;
+}
+.aboutimg{
+    width: 100%;
+}
+}
+
+
+
+
+
+/* End about section  */
+/* services section */
+@media screen and (max-width:600px){
+    .seritem{
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:601px){
+    .seritem{
+        width: 50%;
+    }
+}
+
+@media screen and (min-width:769px){
+    .seritem{
+        width: 33.33333%;
+    }
+}
+@media screen and (min-width:993px){
+    .seritem{
+        width: 25%;
+    }
+}
+/* End services section */
+
+/* portfolio section */
+
+@media screen and (max-width:600px){
+    .imgee{
+        width: 100%;
+    }
+}
+@media screen and (min-width:601px){
+    .imgee{
+        width: 50%;
+    }
+}
+@media screen and (min-width:769px){
+    .imgee{
+        width: 33.3333%;
+    }
+}
+/* End portfolio section */
+
+
+/*   number section  */
+
+@media screen and (max-width:600px){
+    .num{
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:601px){
+    .num{
+        width: 50%;
+    }
+}
+
+@media screen and (min-width:769px){
+    .num{
+        width: 33.33333%;
+    }
+}
+@media screen and (min-width:993px){
+    .num{
+        width: 25%;
+    }
+}
+
+/*  End number section  */
+
+/* blog section */
+
+@media screen and (max-width:600px){
+    .blogitem{
+        width: 100%;
+    }
+}
+@media screen and (min-width:601px){
+    .blogitem{
+        width: 50%;
+    }
+}
+@media screen and (min-width:769px){
+    .blogitem{
+        width: 32%;
+    }
+}
+
+
+
+/* End blog section  */
+
+/* portfolio section  */
+
+@media screen and (max-width:769px){
+.portfolioimg{
+flex-direction: column;
+}
+.portfolioimg .imgee{
+    width:100%;    
+}
+}
+
+@media screen and (max-width:992px){
+    
+    .portfolioimg .imgee{
+        width:calc(50% - 30px) ;    
+    }
+
+}
+
+@media screen and (min-width:993px){
+    
+    .portfolioimg .imgee{
+    width:calc(33.333333% - 60px) ;
+      
+    }
+
+} 
+
+
+/* End portfolio section  */
+
+/* number section  */
+
+@media screen and (max-width:769px){
+    
+   .number .num{
+        width:100% ;    
+    }
+
+}
+
+@media screen and (min-width:769px){
+   .number .num{
+    width:25% ;
+      
+    }
+
+} 
+
+/* End number section  */
+
+/* feedback secction  */
+
+
+
+
+
+
+
+
+/* End feedback section  */
